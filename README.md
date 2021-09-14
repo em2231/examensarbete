@@ -23,7 +23,7 @@ Alla data in CityGML are visualised with inspector. The color of the terrain, pl
 ## Data
 Some data are not included in the FME scripts due to restrictive license rules. Annotations are attached in the scripts to explain what have been used. The data provided are the building models created in Spacemaker in IFC-format (a-spacemaker) and the result from converting them to CityGML (a-result).
 
-## Visualization result
+## Visualization of the result
 
 The final result of using the scripts. Left image shows a-result and right image shows the result of a-result with other data using the script vizualise-data
 
