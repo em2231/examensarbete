@@ -36,7 +36,8 @@ The final result of using the scripts. Left image shows a-result and right image
 
 ## Programs used
 [FME](https://www.safe.com/) - Safe Software
-[Spacemaker] (https://www.spacemakerai.com/) - Spacemaker AI
+
+[Spacemaker](https://www.spacemakerai.com/) - Spacemaker AI
 
 ## Links
 
